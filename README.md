@@ -1,3 +1,40 @@
+This project is a school management system developed in two stages as part of the Computational Thinking course. It allows the inclusion, listing, updating, and deletion of data related to students, teachers, subjects, classes, and enrollments. In the second stage, the system was enhanced with the introduction of data persistence using JSON files, making it more robust and functional. Through this project, I was able to consolidate fundamental skills in programming logic, data manipulation, and information persistence.
+
+Technologies Used:
+
+Programming Language: Python
+
+IDEs: PyCharm (initially), but the project was mainly developed in VS Code due to the ease of indentation and extensions.
+
+How to Run the System:
+
+Clone the repository: git clone <repository_URL>
+
+Enter the directory: cd School-Management-System
+
+Ensure that Python is installed on your machine.
+
+Run the main script: python main_file_name.py (replace with the correct name of the main file).
+
+What Was Learned: This project provided significant learning in various areas:
+
+Structuring interactive menus: Developed a menu-based system, allowing users to navigate between different functionalities and interact with data.
+
+Data persistence with JSON: In the second stage, implemented the ability to save and load data using JSON files, ensuring information was not lost between sessions.
+
+Code modularity: Organized the project into separate functions for different operations, such as inclusion, listing, and deletion, facilitating maintenance and readability.
+
+Flow control: Applied loops and conditionals to manage the system's behavior according to user choices.
+
+Data entry and validation: Enhanced my ability to work with user inputs, ensuring data was processed correctly.
+
+This project reinforced my understanding of programming fundamentals and provided a solid foundation to explore more advanced concepts.
+
+
+
+
+
+
 Este projeto é um sistema de gerenciamento escolar desenvolvido em duas etapas como parte da matéria de Raciocínio Computacional. Ele permite a inclusão, listagem, atualização e exclusão de dados relacionados a estudantes, professores, disciplinas, turmas e matrículas. Na segunda etapa, o sistema foi aprimorado com a introdução de persistência de dados utilizando arquivos JSON, tornando-o mais robusto e funcional. Através deste projeto, pude consolidar habilidades fundamentais em lógica de programação, manipulação de dados e persistência de informações.
 
 Tecnologias utilizadas:
